@@ -1,0 +1,6 @@
+Here is the result : This content are place in FIRST.TXT file
+ and This content are place in SECOND.TXT file
+Here is the result : This content are place in FIRST.TXT file
+ and This content are place in SECOND.TXT file
+Here is the result : This content are place in FIRST.TXT file
+ and This content are place in SECOND.TXT file
